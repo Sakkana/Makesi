@@ -1,0 +1,2 @@
+# Makesi
+Marxist principle
